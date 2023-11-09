@@ -9,4 +9,10 @@ class FrontendController extends Controller
     public function index(){
         return view("Frontend.index");
     }
+
+
+
+    public function contact(){
+        return view("Frontend.contact");
+    }
 }

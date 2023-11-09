@@ -39,8 +39,8 @@
             <div class="ed-mob-menu-con">
                 <div class="ed-mm-left">
                     <div class="wed-logo">
-                        <a href="index-2.php"><img src="{{asset('assets/frontend_assets')}}/images/logo.png" alt="" />
-                        <!-- <a href="index-2.php"><img src="{{asset('assets/frontend_assets')}}/images/logo.png" alt="" /> -->
+                        <a href="/"><img src="{{asset('assets/frontend_assets')}}/images/logo.png" alt="" />
+                        <!-- <a href="/"><img src="{{asset('assets/frontend_assets')}}/images/logo.png" alt="" /> -->
 						</a>
                     </div>
                 </div>
@@ -75,7 +75,7 @@
                             </ul>
                             <h4>All Pages</h4>
                             <ul>
-                                <li><a href="index-2.php">Home</a></li>
+                                <li><a href="/">Home</a></li>
                                 <li><a href="about.php">About us</a></li>
                                 <li><a href="admission.php">Admission</a></li>
                                 <li><a href="all-courses.php">All courses</a></li>
@@ -85,7 +85,7 @@
                                 <li><a href="events.php">Events</a></li>
                                 <li><a href="event-details.php">Event details</a></li>
                                 <li><a href="event-register.php">Event register</a></li>
-                                <li><a href="contact-us.php">Contact us</a></li>
+                                <li><a href="contact.php">Contact us</a></li>
                             </ul>
                             <h4>User Profile</h4>
                             <ul>
@@ -146,12 +146,12 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="wed-logo">
-                            <a href="index-2.php"><img src="{{asset('assets/frontend_assets')}}/images/logo.png" alt="" />
+                            <a href="/"><img src="{{asset('assets/frontend_assets')}}/images/logo.png" alt="" />
                             </a>
                         </div>
                         <div class="main-menu">
                             <ul>
-                                <li><a href="index-2.php">Home</a>
+                                <li><a href="/">Home</a>
                                 </li>
                                 <li class="about-menu">
                                     <a href="about.php" class="mm-arr">About us</a></li>
@@ -167,7 +167,7 @@
                                 </li>
                                 <li><a href="dashboard.php">Student</a>
                                 </li>
-                                <li><a href="contact-us.php">Contact us</a>
+                                <li><a href="/contact">Contact us</a>
                                 </li>
                             </ul>
                         </div>
