@@ -71,7 +71,7 @@
                             <ul>
                                 <li><a href="/">Home</a></li>
                                 <li><a href="/about">About us</a></li>
-                                <li><a href="admission.php">Admission</a></li>
+                                <li><a href="/admission/form" target="_blank">Admission</a></li>
                                 <li><a href="all-courses.php">All courses</a></li>
                                 <li><a href="course-details.php">Course details</a></li>
                                 <li><a href="awards.php">Awards</a></li>
@@ -150,7 +150,7 @@
                                 <li class="about-menu">
                                     <a href="/about" class="mm-arr">About us</a></li>
                                 <li class="admi-menu">
-                                    <a href="#" class="mm-arr">Admission</a>
+                                    <a href="/admission/form" class="mm-arr">Admission</a>
                                 </li>
                                 <li><a href="all-courses.php">All Courses</a></li>
                                 <!--<li><a class='dropdown-button ed-sub-menu' href='#' data-activates='dropdown1'>Courses</a></li>-->

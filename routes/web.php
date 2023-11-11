@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\AboutController;
+use App\Http\Controllers\AdmissionController;
 use App\Http\Controllers\FrontendController;
 use Illuminate\Support\Facades\Route;
 
@@ -15,4 +16,6 @@ Route::get('/awards', [AboutController::class, "awards"])->name("awards");
 Route::get('/research', [AboutController::class, "research"])->name("research");
 
 
+//admission controller
+Route::get('/admission/form', [AdmissionController::class, "admission_form"])->name('admission.form');
 
