@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\AboutController;
 use App\Http\Controllers\AdmissionController;
+use App\Http\Controllers\CourseController;
 use App\Http\Controllers\FrontendController;
 use Illuminate\Support\Facades\Route;
 
@@ -18,4 +19,7 @@ Route::get('/research', [AboutController::class, "research"])->name("research");
 
 //admission controller
 Route::get('/admission/form', [AdmissionController::class, "admission_form"])->name('admission.form');
+
+//Course Controller 
+Route::get("/courses", [CourseController::class, "courses"])->name("courses");
 
