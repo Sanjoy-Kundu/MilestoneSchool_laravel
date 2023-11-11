@@ -22,7 +22,7 @@
                                     <div class="ed-ad-dec">
                                         <h4>Awards</h4>
                                         <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi bibendum imperdiet bibendum.</p>
-                                        <a href="awards.html">Read more</a>
+                                        <a href="/awards" target="_blank">Read more</a>
                                     </div>
                                 </li>
                                 <li>
@@ -32,10 +32,10 @@
                                     <div class="ed-ad-dec">
                                         <h4>Research</h4>
                                         <p>tiam eget enim non magna vestibulum malesuada ut et lectus. Curabitur egestas risus massa, a malesuada erat ultrices non.</p>
-                                        <a href="research.html">Read more</a>
+                                        <a href="/research">Read more</a>
                                     </div>
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <div class="ed-ad-img">
                                         <img src="{{asset('assets/frontend_assets')}}/images/adv/3.png" alt="">
                                     </div>
@@ -67,7 +67,7 @@
                                 </li>
                                 <li>
                                     <div class="ed-ad-img">
-                                        <!-- <img src="{{asset('assets/frontend_assets')}}/images/adv/6.png" alt=""> -->
+                                       
                                         <img src="{{asset('assets/frontend_assets')}}/images/adv/6.png" alt="">
                                     </div>
                                     <div class="ed-ad-dec">
@@ -75,7 +75,7 @@
                                         <p>Maecenas venenatis, turpis ac tincidunt convallis, leo enim ultrices tortor, at faucibus neque sapien ac elit. Curabitur ut ipsum odio.</p>
                                         <a href="departments.html">Read more</a>
                                     </div>
-                                </li>
+                                </li> -->
                             </ul>
                         </div>
                     </div>

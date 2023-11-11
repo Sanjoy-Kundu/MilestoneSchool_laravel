@@ -8,7 +8,7 @@ class FrontendController extends Controller
 {
     public function index(){
         return view("Frontend.index");
-    }
+    } 
 
 
 
@@ -20,5 +20,5 @@ class FrontendController extends Controller
         return view("Frontend.about");
     }
 
-    
+
 }
