@@ -22,4 +22,5 @@ Route::get('/admission/form', [AdmissionController::class, "admission_form"])->n
 
 //Course Controller 
 Route::get("/courses", [CourseController::class, "courses"])->name("courses");
+Route::get('/courseDetails', [CourseController::class, "course_details"])->name('courseDetails');
 

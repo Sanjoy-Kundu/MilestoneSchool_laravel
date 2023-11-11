@@ -9,4 +9,8 @@ class CourseController extends Controller
     public function courses(){
         return view('Frontend/courses/courses');
     }
+
+    public function course_details (){
+        return view('Frontend/courses/courseDetails');
+    }
 }
