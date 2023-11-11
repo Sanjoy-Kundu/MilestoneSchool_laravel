@@ -3,7 +3,7 @@
 
 
 <head>
-    <title>Education Master Template</title>
+    <title>Education Master</title>
     <!-- META TAGS -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -23,12 +23,6 @@
     <link href="{{asset('assets/frontend_assets')}}/css/style.css" rel="stylesheet" />
     <!-- RESPONSIVE.CSS ONLY FOR MOBILE AND TABLET VIEWS -->
     <link href="{{asset('assets/frontend_assets')}}/css/style-mob.css" rel="stylesheet" />
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-	<script src="{{asset('assets/frontend_assets')}}/js/html5shiv.js"></script>
-	<script src="{{asset('assets/frontend_assets')}}/js/respond.min.js"></script>
-	<![endif]-->
 </head>
 
 <body>
@@ -76,7 +70,7 @@
                             <h4>All Pages</h4>
                             <ul>
                                 <li><a href="/">Home</a></li>
-                                <li><a href="about.php">About us</a></li>
+                                <li><a href="/about">About us</a></li>
                                 <li><a href="admission.php">Admission</a></li>
                                 <li><a href="all-courses.php">All courses</a></li>
                                 <li><a href="course-details.php">Course details</a></li>
@@ -154,7 +148,7 @@
                                 <li><a href="/">Home</a>
                                 </li>
                                 <li class="about-menu">
-                                    <a href="about.php" class="mm-arr">About us</a></li>
+                                    <a href="/about" class="mm-arr">About us</a></li>
                                 <li class="admi-menu">
                                     <a href="#" class="mm-arr">Admission</a>
                                 </li>
@@ -502,6 +496,7 @@
     <script src="{{asset('assets/frontend_assets')}}/js/bootstrap.min.js"></script>
     <script src="{{asset('assets/frontend_assets')}}/js/materialize.min.js"></script>
     <script src="{{asset('assets/frontend_assets')}}/js/custom.js"></script>
+    
 </body>
 
 </html>

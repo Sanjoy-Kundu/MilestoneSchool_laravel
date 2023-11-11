@@ -41,46 +41,53 @@
         </div>
     </section>
     <!--SECTION END-->
-        <section class="mb-5">
-            <h2 class="text-center">Your Message Here</h2>
-            <div class="container" style="width: 90%; margin:0 auto;">
-            <div id="hom-vijay" class="col s12">
-                            <form class="col s6">
+  
+
+    <section>
+        <div class="container com-sp pad-bot-0">
+            <div class="row">
+                <div class="col-md-12">
+                    <!--<div class="ho-ex-title">
+							<h4>Upcoming Event</h4>
+						</div>-->
+                    <div class="ho-ev-latest ho-ev-latest-bg-3">
+                        <div class="ho-lat-ev">
+                            <h4>Write Your Message</h4>
+                        </div>
+                    </div>
+                    <div class="ho-st-login">
+                        <div id="hom-vijay" class="col s12">
+                            <form class="col s12">
                                 <div class="row">
-                                    <div class="input-field col s6">
-                                        <input type="text" class="validate">
-                                        <label>User name</label>
+                                    <div class="input-field col s12">
+                                        <input type="text" class="validate" placeholder="Enter Your Name">
                                     </div>
                                 </div>
                                 <div class="row">
-                                    <div class="input-field col s6">
-                                        <input type="email" class="validate">
-                                        <label>Email id</label>
+                                    <div class="input-field col s12">
+                                        <input type="text" class="validate" placeholder="Enter Your Email">
                                     </div>
                                 </div>
                                 <div class="row">
-                                    <div class="input-field col s6">
-                                        <input type="tel" class="validate">
-                                        <label>Mobile</label>
+                                    <div class="input-field col s12">
+                                        <!-- <input type="text" class="validate"> -->
+                                        <textarea name="" id="" class="validate" cols="50" rows="10">Write your message</textarea>
                                     </div>
                                 </div>
+                           
                                 <div class="row">
-                                <div class="row">
-                                    <div class="input-field col s6">
-                                        <input type="text" class="validate">
-                                        <label>User Message</label>
-                                    </div>
-                                </div>
-                                </div>
-                                <div class="row">
-                                    <div class="input-field col s5">
-                                        <input type="submit" value="Register" class="waves-effect waves-light light-btn">
+                                    <div class="input-field col s12">
+                                        <input type="submit" value="Submit" class="waves-effect waves-light light-btn">
                                     </div>
                                 </div>
                             </form>
                         </div>
+                       
+                    </div>
+                </div>
             </div>
-        </section>
+        </div>
+    </section> <br> <br> <br>
 
     <section id="map" class="mt-5">
         <div class="row contact-map">
