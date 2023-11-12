@@ -3,6 +3,7 @@
 use App\Http\Controllers\AboutController;
 use App\Http\Controllers\AdmissionController;
 use App\Http\Controllers\CourseController;
+use App\Http\Controllers\EventController;
 use App\Http\Controllers\FrontendController;
 use Illuminate\Support\Facades\Route;
 
@@ -24,3 +25,5 @@ Route::get('/admission/form', [AdmissionController::class, "admission_form"])->n
 Route::get("/courses", [CourseController::class, "courses"])->name("courses");
 Route::get('/courseDetails', [CourseController::class, "course_details"])->name('courseDetails');
 
+//event controller
+Route::get('/events', [EventController::class, "events"])->name('events');
