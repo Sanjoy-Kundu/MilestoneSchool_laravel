@@ -76,7 +76,7 @@
                                 <li><a href="course-details.php">Course details</a></li>
                                 <li><a href="awards.php">Awards</a></li>
                                 <li><a href="seminar.php">Seminar</a></li>
-                                <li><a href="events.php">Events</a></li>
+                                <li><a href="/events">Event</a></li>
                                 <li><a href="event-details.php">Event details</a></li>
                                 <li><a href="event-register.php">Event register</a></li>
                                 <li><a href="contact.php">Contact us</a></li>
@@ -157,9 +157,9 @@
                                 <li class="cour-menu">
                                     <a href="#!" class="mm-arr">All Pages</a>
                                 </li>
-                                <li><a href="events.php">Events</a>
+                                <li><a href="/events">Events</a>
                                 </li>
-                                <li><a href="dashboard.php">Student</a>
+                                <li><a href="#">Student</a>
                                 </li>
                                 <li><a href="/contact">Contact us</a>
                                 </li>

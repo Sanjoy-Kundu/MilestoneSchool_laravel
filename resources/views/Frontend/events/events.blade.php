@@ -16,98 +16,98 @@
                                         <div class="ho-ev-date pg-eve-date"><span>07</span><span>jan,2018</span>
                                         </div>
                                         <div class="ho-ev-link pg-eve-desc">
-                                            <a href="event-register.html">
+                                            <a href="/event/registration">
                                                 <h4>Latinoo College Expo 2018 - DONATION</h4>
                                             </a>
                                             <p>Nulla at velit convallis, venenatis lacus quis, efficitur lectus.</p>
                                             <span>9:15 am – 5:00 pm</span>
                                         </div>
                                         <div class="pg-eve-reg">
-                                            <a href="event-register.html">Register</a><a href="event-details.html">Read more</a>
+                                            <a href="/event/registration">Register</a><a href="/event/eventDetails">Read more</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="ho-ev-date pg-eve-date"><span>12</span><span>feb,2018</span>
                                         </div>
                                         <div class="ho-ev-link pg-eve-desc">
-                                            <a href="event-register.html">
+                                            <a href="/event/registration">
                                                 <h4>Training at Team Fabio Clemente</h4>
                                             </a>
                                             <p>Nulla at velit convallis, venenatis lacus quis, efficitur lectus.</p>
                                             <span>9:15 am – 5:00 pm</span>
                                         </div>
                                         <div class="pg-eve-reg">
-                                            <a href="event-register.html">Register</a><a href="event-details.html">Read more</a>
+                                            <a href="/event/registration">Register</a><a href="/event/eventDetails">Read more</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="ho-ev-date pg-eve-date"><span>26</span><span>apr,2018</span>
                                         </div>
                                         <div class="ho-ev-link pg-eve-desc">
-                                            <a href="event-register.html">
+                                            <a href="/event/registration">
                                                 <h4>Weekly Breakdance Practice</h4>
                                             </a>
                                             <p>Nulla at velit convallis, venenatis lacus quis, efficitur lectus.</p>
                                             <span>9:15 am – 5:00 pm</span>
                                         </div>
                                         <div class="pg-eve-reg">
-                                            <a href="event-register.html">Register</a><a href="event-details.html">Read more</a>
+                                            <a href="/event/registration">Register</a><a href="/event/eventDetails">Read more</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="ho-ev-date pg-eve-date"><span>18</span><span>sep,2018</span>
                                         </div>
                                         <div class="ho-ev-link pg-eve-desc">
-                                            <a href="event-register.html">
+                                            <a href="/event/registration">
                                                 <h4>Admissions Information Session and Tour</h4>
                                             </a>
                                             <p>Nulla at velit convallis, venenatis lacus quis, efficitur lectus.</p>
                                             <span>9:15 am – 5:00 pm</span>
                                         </div>
                                         <div class="pg-eve-reg">
-                                            <a href="event-register.html">Register</a><a href="event-details.html">Read more</a>
+                                            <a href="/event/registration">Register</a><a href="/event/eventDetails">Read more</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="ho-ev-date pg-eve-date"><span>07</span><span>nov,2018</span>
                                         </div>
                                         <div class="ho-ev-link pg-eve-desc">
-                                            <a href="event-register.html">
+                                            <a href="/event/registration">
                                                 <h4>CUNY Assessment Test Workshop</h4>
                                             </a>
                                             <p>Nulla at velit convallis, venenatis lacus quis, efficitur lectus.</p>
                                             <span>9:15 am – 5:00 pm</span>
                                         </div>
                                         <div class="pg-eve-reg">
-                                            <a href="event-register.html">Register</a><a href="event-details.html">Read more</a>
+                                            <a href="/event/registration">Register</a><a href="/event/eventDetails">Read more</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="ho-ev-date pg-eve-date"><span>18</span><span>sep,2018</span>
                                         </div>
                                         <div class="ho-ev-link pg-eve-desc">
-                                            <a href="event-register.html">
+                                            <a href="/event/registration">
                                                 <h4>Fire & ice launch party</h4>
                                             </a>
                                             <p>Nulla at velit convallis, venenatis lacus quis, efficitur lectus.</p>
                                             <span>9:15 am – 5:00 pm</span>
                                         </div>
                                         <div class="pg-eve-reg">
-                                            <a href="event-register.html">Register</a><a href="event-details.html">Read more</a>
+                                            <a href="/event/registration">Register</a><a href="/event/eventDetails">Read more</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="ho-ev-date pg-eve-date"><span>07</span><span>nov,2018</span>
                                         </div>
                                         <div class="ho-ev-link pg-eve-desc">
-                                            <a href="event-register.html">
+                                            <a href="/event/registration">
                                                 <h4>Educate to Empower NYE Party</h4>
                                             </a>
                                             <p>Nulla at velit convallis, venenatis lacus quis, efficitur lectus.</p>
                                             <span>9:15 am – 5:00 pm</span>
                                         </div>
                                         <div class="pg-eve-reg">
-                                            <a href="event-register.html">Register</a><a href="event-details.html">Read more</a>
+                                            <a href="/event/registration">Register</a><a href="/event/eventDetails">Read more</a>
                                         </div>
                                     </li>
                                 </ul>

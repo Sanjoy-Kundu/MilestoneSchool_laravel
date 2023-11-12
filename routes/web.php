@@ -27,3 +27,5 @@ Route::get('/courseDetails', [CourseController::class, "course_details"])->name(
 
 //event controller
 Route::get('/events', [EventController::class, "events"])->name('events');
+Route::get('/event/registration', [EventController::class, "event_registration"])->name('event.registration');
+Route::get('/event/eventDetails', [EventController::class, "event_details"])->name('event.eventDetails');
